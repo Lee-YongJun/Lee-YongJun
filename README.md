@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&textbg=f7f5f5&section=header&text=YongJun&fontSize=90&fontAlign=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&textbg=f7f5f5&section=header&text=YongJun&fontSize=90&fontAlign=75" />
 
 ### Hi there 👋
 
