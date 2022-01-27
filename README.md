@@ -12,7 +12,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React.js](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)
+![React.js](https://img.shields.io/badge/-ReactJS-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)
 ##### IDEs/Editors😄
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
